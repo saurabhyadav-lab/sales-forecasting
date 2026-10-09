@@ -1,0 +1,17 @@
+{
+  "best_model": "prophet",
+  "sigma": 22.626781959533584,
+  "bias": 5.818445674077892,
+  "metrics": {
+    "MAE": 19.577,
+    "RMSE": 23.363,
+    "MAPE": 4.347,
+    "sMAPE": 4.266,
+    "MASE": 0.616,
+    "cv_MAE": 20.511,
+    "cv_RMSE": 25.674,
+    "cv_MAPE": 4.444,
+    "cv_sMAPE": 4.452,
+    "cv_MASE": 0.646
+  }
+}
